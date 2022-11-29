@@ -1,7 +1,9 @@
 - Nama Kelompokku
 * Anggi Prisilia
 * Aisa Ramadhani
-
+  ^ Tidak ngerjakan
+  ^ malas
 Tugas Yang Harus Di Kerakan Masing Masing
 - Buat Basis Data
+^ Buat Log Out
 - Buat Login
