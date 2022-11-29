@@ -1,7 +1,8 @@
 - Nama Kelompokku
 * Anggi Prisilia
 * Aisa Ramadhani
-
+      ^Kerjakan
 Tugas Yang Harus Di Kerakan Masing Masing
 - Buat Basis Data
 - Buat Login
+    ^Buat Home
